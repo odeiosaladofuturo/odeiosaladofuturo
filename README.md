@@ -1,5 +1,5 @@
 # Aqui é o lugar que os alunos do TB se diverte, pegando os scripts e fazendo as porcaria da SED
-(![image](https://github.com/user-attachments/assets/fd2a34d0-93da-417b-af58-c46a4fb8437d)
+![image](https://github.com/user-attachments/assets/fd2a34d0-93da-417b-af58-c46a4fb8437d)
 
 
 <!--git add--> 
