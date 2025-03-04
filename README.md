@@ -1,4 +1,5 @@
-## Hi there 👋
+# Aqui é o lugar que os alunos do TB se diverte, pegando os scripts e fazendo as porcaria da SED
+
 
 <!--
 **odeiocmsp/odeiocmsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
