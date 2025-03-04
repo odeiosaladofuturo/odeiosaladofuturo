@@ -2,6 +2,11 @@
 ![image](https://github.com/user-attachments/assets/fd2a34d0-93da-417b-af58-c46a4fb8437d)
 
 
+
+
+
+OBS: to com preguiça de fazer um ngm bem feito, vai assim msm
+
 <!--git add--> 
 <!--
 **odeiocmsp/odeiocmsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
