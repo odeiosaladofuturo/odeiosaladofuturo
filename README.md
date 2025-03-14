@@ -1,4 +1,4 @@
-# Aqui é o lugar que os alunos do TB se diverte, pegando os scripts e fazendo as porcaria da SED
+# Coloquei alguns script pro6
 ![image](https://github.com/user-attachments/assets/8a98ebaf-a541-4121-bf97-e2e7ac4748f4)
 
 
