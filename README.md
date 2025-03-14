@@ -1,5 +1,6 @@
 # Aqui é o lugar que os alunos do TB se diverte, pegando os scripts e fazendo as porcaria da SED
-![image](https://github.com/user-attachments/assets/fd2a34d0-93da-417b-af58-c46a4fb8437d)
+![image](![image](https://github.com/user-attachments/assets/8a98ebaf-a541-4121-bf97-e2e7ac4748f4)
+
 
 Doritus: https://doritus.mmrcoss.tech/
 
