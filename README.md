@@ -1,7 +1,7 @@
 # Coloquei alguns script pro6 (Ta na imagem abaixo)
 
 <a href="https://github.com/odeiosaladofuturo/Scripts/tree/main/src">
-  <img src="https://github.com/user-attachments/assets/b772ba9d-9cf8-4a28-b47e-effc5d8f4367" alt="Scripts" width="350">
+  <img src="https://github.com/user-attachments/assets/b772ba9d-9cf8-4a28-b47e-effc5d8f4367" alt="Scripts" width="400">
 </a>
  
  OBS: to com preguiça de fazer um ngm bem feito, vai assim msm
