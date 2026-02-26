@@ -4,7 +4,7 @@
 
 Finalmente, fiquei inspirado pra mexer isso, logo às 4:05 😔
 
-### Taskitos:https://taskitos.cupiditys.lol (Ta fazendo até prova)
-### Leia:https://leiasp.cupiditys.lol/ (Funcionando)
-### Redação: https://redacao.cupiditys.lol/ (Funcionando [acredito eu])
+### Taskitos:https://taskitos.cupiditys.lol
+### Leia:https://leiasp.cupiditys.lol/
+### Redação: https://redacao.cupiditys.lol/ 
 ### Khan: https://khan.cupiditys.lol/
