@@ -10,7 +10,7 @@
   <img src="URL_DA_IMAGEM_AQUI" alt="Redação" width="50" height="50">
 </a>
 <a href="https://khan.cupiditys.lol/">
-  <img src="https://i0.wp.com/camarageneralsalgado.sp.gov.br/wp-content/uploads/2025/02/Eduardo.png?resize=210%2C155&ssl=1" alt="Khan" width="50" height="50">
+  <img src="https://i0.wp.com/camarageneralsalgado.sp.gov.br/wp-content/uploads/2025/02/Eduardo.png?resize=210%2C155&ssl=1" alt="Khan" width="200" height="200">
 </a>
 
 ---
