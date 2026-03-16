@@ -41,3 +41,5 @@ javascript:function remove_block(){const e=function(e){return e.stopImmediatePro
 ```javascript
 javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})();
 ```
+### Link para o VPN que funciona nos positivo (talvez eu ache um pros prata, n sei)
+https://apps.microsoft.com/detail/9pkl3h9lwmb7?hl=pt-BR&gl=RU
