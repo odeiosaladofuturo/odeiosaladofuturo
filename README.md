@@ -23,7 +23,7 @@
     <td align="center" width="200">
       <b>KHAN</b><br><br>
       <a href="https://khan.cupiditys.lol/">
-        <img src="https://i0.wp.com/camarageneralsalgado.sp.gov.br/wp-content/uploads/2025/02/Eduardo.png?resize=210%2C155&ssl=1" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
+        <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
       </a>
     </td>
   </tr>
