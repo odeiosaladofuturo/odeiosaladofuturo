@@ -29,13 +29,10 @@
   </tr>
 </table>
 
+
 ---
 
 ### 📝 Script para copiar e colar a redação
 ```javascript
 javascript:function remove_block(){const e=function(e){return e.stopImmediatePropagation(),!0};document.addEventListener("copy",e,!0),document.addEventListener("cut",e,!0),document.addEventListener("paste",e,!0),alert("Block Removed!")}remove_block();
 
----
-### 📝 Alternativa do khan
-```javascript
-javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})();
