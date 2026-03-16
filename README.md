@@ -9,6 +9,5 @@
 ## Alternativa do khan: javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})(); 
 !!!Copia esse codigo abaixo pra copiar e colar redação!!!
                                                    
-### javascript:function remove_block(){const e=function(e){return e.stopImmediatePropagation(),!0};document.addEventListener("copy",e,!0),document.addEventListener("cut",e,!0),document.addEventListener("paste",e,!0),alert("Block Removed!")}remove_block();
-
+### [Clique aqui para ver o código](https://github.com/odeiosaladofuturo/Scripts/blob/main/src/Hack%20do%20Khan)
 ### Esse javascript ele tira o negócio que bloqueia vc a não colar redação na parte de redação
