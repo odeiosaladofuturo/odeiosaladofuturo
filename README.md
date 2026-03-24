@@ -27,6 +27,14 @@
       </a>
     </td>
   </tr>
+  <table border="0">
+  <tr>
+    <td align="center" width="200">
+      <b>Speakify</b><br><br>
+      <a href="https://speakify.cupiditys.lol">
+        <img src="era pra ser a foto da dani" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
+      </a>
+    </td>
 </table>
 
 
