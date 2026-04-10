@@ -5,7 +5,7 @@
     <td align="center" width="200">
       <b>TASKITOS</b><br><br>
       <a href="https://taskitos.cupiditys.lol">
-        <img src="https://github.com/user-attachments/assets/11ded640-974d-4702-9bb5-e6e9bdfe4914" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
+        <img src="" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
       </a>
     </td>
     <td align="center" width="200">
