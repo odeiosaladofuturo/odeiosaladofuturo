@@ -29,13 +29,6 @@
   </tr>
   <table border="0">
   <tr>
-     <td align="center" width="200">
-      <b>Plataforma foda (coloquei a foto do edu pq eu gosto dele)</b><br><br>
-      <a href="https://khan.cupiditys.lol/">
-        <img src="https://crimsonzerohub.xyz/" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
-      </a>
-    </td>
-  </tr>
   <table border="0">
   <tr>
     <td align="center" width="200">
@@ -54,7 +47,13 @@
   <table border="0">
   <tr>
 </table>
-
+<td align="center" width="200">
+      <b>Plataforma foda (coloquei a foto do edu pq eu gosto dele)</b><br><br>
+      <a href="https://crimsonzerohub.xyz/">
+        <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
+      </a>
+    </td>
+  </tr>
 
 ---
 
