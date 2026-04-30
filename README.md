@@ -32,7 +32,7 @@
   <table border="0">
   <tr>
     <td align="center" width="200">
-      <b>Moon Speak(OFF)</b><br><br>
+      <b>Moon Speak</b><br><br>
       <a href="https://speak.moonscripts.cloud/">
         <img src="https://instagram.fsjp7-1.fna.fbcdn.net/v/t51.2885-19/322628344_1554206341724242_5285804292849321807_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsjp7-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gFNBzDMgBDKEwH9T21iflT-dTGMfSlyHgSMyxe-m0HVVUyg4IhWl3ajU0ATaBHy1AEx1fm62f75XEzSFw8UzVz1&_nc_ohc=2CihPA5IR9kQ7kNvwGE0Euj&_nc_gid=jg454FH83Y40pZcdGTtJMQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_Afw3eTLhEAi5Hdr_-yN7WBx0BeC5EvdlcH4kOsDkVGNb5w&oe=69CA68BF&_nc_sid=22de04" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
       </a>
