@@ -48,8 +48,8 @@
   <tr>
 </table>
 <td align="center" width="200">
-      <b>Plataforma foda que tem tudo (coloquei a foto do Dudu pq eu gosto dele)</b><br><br>
-      <a href="https://crimsonzerohub.xyz/">
+      <b>Morreu</b><br><br>
+      <a href="">
         <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
       </a>
     </td>
@@ -62,7 +62,7 @@
 javascript:function remove_block(){const e=function(e){return e.stopImmediatePropagation(),!0};document.addEventListener("copy",e,!0),document.addEventListener("cut",e,!0),document.addEventListener("paste",e,!0),alert("Block Removed!")}remove_block();
 ```
 
-### 📝 Script novo do khan
+### 📝 Script novo do khan (nao garanto que funciona)
 ```javascript
 javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");let t=await r.text();let s=document.createElement("script");s.textContent=t;document.body.appendChild(s);})();
 ```
