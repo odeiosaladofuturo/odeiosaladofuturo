@@ -48,7 +48,7 @@
   <tr>
 </table>
 <td align="center" width="200">
-      <b>Morreu</b><br><br>
+      <b>Ssshhh...</b><br><br>
       <a href="">
         <img src="https://github.com/user-attachments/assets/e99c547f-bf83-4288-8358-d03ce6f9ffc1" width="150" height="150" style="object-fit: cover; border-radius: 10px;">
       </a>
