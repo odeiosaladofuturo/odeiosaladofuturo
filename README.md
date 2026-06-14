@@ -1,4 +1,4 @@
-### 🚀 Us hack ta aqui djoido (clica nas foto que da pra ir pro site, e agora tem apostila ;).)
+### 🚀 Us hack ta aqui djoido
 
 
 <td align="center" width="200">
