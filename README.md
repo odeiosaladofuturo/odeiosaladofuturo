@@ -26,7 +26,7 @@ javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");le
 ### https://sites.google.com/classroom.center/view-1/
 ### Doritus: https://doritus.cloud/
 ### Joguinhos que deixei pra vcs do windows:
-### https://drive.google.com/file/d/11bQqw8XiFBNrD84VTT_5ce7aAvhdiBXq/view
+### Balatro: https://drive.google.com/file/d/11bQqw8XiFBNrD84VTT_5ce7aAvhdiBXq/view
 ### https://drive.google.com/file/d/11bQqw8XiFBNrD84VTT_5ce7aAvhdiBXq/view?usp=drive_link
 ### https://drive.google.com/file/d/15bnQOaGOrOuWJM6WW1rexH5T_K9-w18C/view?usp=drive_link
 
