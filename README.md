@@ -27,6 +27,6 @@ javascript:(async()=>{let r=await fetch("https://api.moonscripts.cloud/book");le
 ### Doritus: https://doritus.cloud/
 ### Joguinhos que deixei pra vcs do windows:
 ### Balatro: https://drive.google.com/file/d/11bQqw8XiFBNrD84VTT_5ce7aAvhdiBXq/view
-### https://drive.google.com/file/d/11bQqw8XiFBNrD84VTT_5ce7aAvhdiBXq/view?usp=drive_link
-### https://drive.google.com/file/d/15bnQOaGOrOuWJM6WW1rexH5T_K9-w18C/view?usp=drive_link
+### Plants Vs Zombies (PVZ GOTY): https://drive.google.com/file/d/1WHd1dChxINxJLtWrMB0IM5DJ0znGMF0z/view?usp=drive_link
+### Full tilt Pinball!: https://drive.google.com/file/d/15bnQOaGOrOuWJM6WW1rexH5T_K9-w18C/view?usp=drive_link
 
